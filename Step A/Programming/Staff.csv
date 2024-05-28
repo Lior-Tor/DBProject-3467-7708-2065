@@ -1,0 +1,401 @@
+StaffID,StaffName,HireDate,Position
+1,Kevin Parks,2022-09-05,Security
+2,Brandon Hamilton,2024-03-28,Stock Clerk
+3,Jose Thompson,2020-11-24,Sales Associate
+4,Christopher Williams,2022-02-10,Sales Associate
+5,Omar Arellano,2023-09-18,Sales Associate
+6,Derek Rodriguez,2020-12-04,Cashier
+7,William Hernandez,2020-10-14,Stock Clerk
+8,Kathryn Miller,2021-02-18,Sales Associate
+9,Kristy Horn,2020-09-18,Cashier
+10,Daniel Chandler,2021-07-12,Sales Associate
+11,Christopher White,2021-04-15,Sales Associate
+12,James Fuller,2021-01-30,Security
+13,Danielle Garcia,2023-06-24,Stock Clerk
+14,Connor Wright,2022-02-05,Cashier
+15,Nicole Tucker,2021-08-16,Manager
+16,Sarah Brown,2023-08-03,Stock Clerk
+17,Daniel Gilmore,2020-01-10,Manager
+18,Joshua Mason,2021-11-04,Stock Clerk
+19,Ruben Singleton MD,2023-11-07,Stock Clerk
+20,Katherine Kelly,2020-02-04,Stock Clerk
+21,Micheal Wall,2021-07-29,Stock Clerk
+22,Jonathan Jones,2023-11-29,Stock Clerk
+23,Veronica Williams,2022-04-12,Stock Clerk
+24,Elizabeth Camacho,2020-04-09,Security
+25,Stephen Mann,2023-09-08,Manager
+26,Jacob Alexander,2022-08-09,Cashier
+27,Jessica Gonzalez,2023-01-06,Security
+28,Edward Braun,2022-12-21,Cashier
+29,Adrian Lee,2020-07-22,Security
+30,Margaret Harrell,2020-06-26,Cashier
+31,Michael Patrick,2021-01-13,Sales Associate
+32,Paul Marshall,2020-11-14,Stock Clerk
+33,Debbie Roberts,2023-01-07,Sales Associate
+34,Ricky Meadows,2022-07-08,Stock Clerk
+35,David Pacheco,2021-10-31,Sales Associate
+36,Scott Ferguson,2022-07-13,Cashier
+37,Tyler Smith,2020-04-29,Cashier
+38,Thomas Mitchell,2020-04-14,Manager
+39,John Pineda,2020-10-23,Stock Clerk
+40,Leah Tapia,2021-03-10,Security
+41,Sarah Thompson,2020-02-13,Manager
+42,Matthew Cooper,2020-11-13,Security
+43,Reginald Davies,2021-09-21,Security
+44,Larry Taylor,2021-12-02,Manager
+45,Curtis Williams,2020-05-11,Cashier
+46,Zachary Watkins,2020-05-27,Cashier
+47,Gwendolyn Rodriguez,2022-08-09,Cashier
+48,Melissa Bowman,2020-12-24,Manager
+49,Jared Pham,2023-03-10,Manager
+50,Regina Berry,2022-03-09,Manager
+51,Leroy Wade,2023-07-25,Sales Associate
+52,Brian Holmes,2021-04-02,Sales Associate
+53,Dana Knox,2023-05-19,Stock Clerk
+54,Brandon Walker,2021-04-17,Stock Clerk
+55,Angela Gaines,2022-12-16,Stock Clerk
+56,Allison Perez,2021-11-30,Cashier
+57,Katelyn Cochran,2022-04-26,Cashier
+58,Daniel Berry,2022-06-20,Manager
+59,Matthew Schmitt,2023-09-22,Cashier
+60,Amy Smith,2023-10-02,Cashier
+61,Jasmine Pena,2023-10-01,Security
+62,Wendy Wong,2022-04-15,Manager
+63,Wendy Ryan,2020-07-25,Cashier
+64,Margaret Weaver,2022-08-27,Security
+65,Miranda Parsons MD,2022-05-08,Security
+66,Andrew Arroyo,2022-03-15,Cashier
+67,Sara Smith,2024-04-13,Security
+68,William Lopez,2021-03-08,Cashier
+69,Jessica Mitchell,2021-07-16,Security
+70,Joe Mercado,2023-07-21,Sales Associate
+71,David Curry,2020-06-16,Stock Clerk
+72,Johnathan Schmidt,2024-04-29,Sales Associate
+73,Sara Rose,2023-12-10,Security
+74,Richard Galvan,2022-11-25,Manager
+75,John Mcdonald,2020-07-09,Stock Clerk
+76,Melissa Alexander,2022-06-24,Manager
+77,Deborah Miller,2022-04-19,Sales Associate
+78,George Nguyen,2020-01-31,Sales Associate
+79,Adam Contreras,2023-09-28,Manager
+80,Robert Smith,2020-02-28,Stock Clerk
+81,Andrew Gibson,2024-05-21,Stock Clerk
+82,Mark Henderson,2022-09-19,Cashier
+83,Jennifer White,2023-08-03,Manager
+84,Sean Thompson,2020-08-31,Stock Clerk
+85,Alex Lawson,2023-02-27,Manager
+86,Peggy Watson,2022-04-23,Sales Associate
+87,Tiffany Lynch,2023-09-22,Stock Clerk
+88,Cheryl Hernandez,2021-11-08,Sales Associate
+89,Bruce Christensen,2024-05-10,Cashier
+90,Shawn Bradley DDS,2021-02-06,Security
+91,Emily Vasquez,2023-04-17,Security
+92,Eric Johnson,2022-05-08,Sales Associate
+93,Cathy Sexton,2021-09-29,Cashier
+94,Caitlyn Fowler,2022-02-22,Cashier
+95,Louis Calderon,2022-04-05,Sales Associate
+96,David Smith,2021-04-25,Stock Clerk
+97,Stacey Rodriguez,2022-04-23,Sales Associate
+98,Mary Snyder,2021-10-01,Manager
+99,Steven Smith,2024-04-26,Stock Clerk
+100,Jeffrey Johnson,2021-02-21,Cashier
+101,William Walker,2021-12-18,Security
+102,Cynthia Jackson,2021-06-23,Security
+103,Nicole Ross,2023-05-03,Sales Associate
+104,Robin Rocha,2021-05-23,Security
+105,Daniel Brown,2023-09-24,Sales Associate
+106,Andrew Simmons,2023-02-27,Stock Clerk
+107,Connor Phillips,2020-03-30,Security
+108,John Blackburn,2021-03-09,Sales Associate
+109,Ashley Miller,2020-12-04,Manager
+110,Wesley Anderson,2021-12-31,Sales Associate
+111,Stanley Chen,2020-05-22,Stock Clerk
+112,Sandra Wilkins,2023-01-16,Stock Clerk
+113,Bryan Moses,2021-08-30,Sales Associate
+114,Alison Wilson,2021-03-18,Cashier
+115,Robin Miller,2022-05-11,Stock Clerk
+116,Matthew Patterson,2020-04-04,Stock Clerk
+117,Isaac Carter,2021-05-14,Sales Associate
+118,Samuel Velazquez,2022-02-18,Security
+119,Thomas Tanner,2020-03-28,Cashier
+120,Kyle Smith,2020-05-10,Security
+121,Linda Meyers,2022-12-08,Stock Clerk
+122,Jake Jimenez,2024-03-25,Security
+123,Gary Johnson,2020-02-16,Stock Clerk
+124,Kelly Byrd,2024-01-06,Cashier
+125,Melissa Schmidt,2020-01-12,Stock Clerk
+126,Mitchell Larsen,2021-09-07,Cashier
+127,Pamela Olsen,2024-03-22,Security
+128,Jeremy Parsons,2024-01-13,Sales Associate
+129,Andrew Robinson,2022-03-04,Stock Clerk
+130,James Vasquez,2022-06-18,Security
+131,Brian Graves,2021-08-06,Cashier
+132,Cassandra Mercado,2021-04-13,Sales Associate
+133,William Schmidt,2020-01-01,Manager
+134,Michelle Fisher,2020-11-16,Stock Clerk
+135,Amanda Kim DVM,2021-10-04,Security
+136,Albert Burns,2020-03-11,Security
+137,Kimberly Roach,2022-04-14,Manager
+138,Melanie Cole,2022-04-15,Cashier
+139,Rachel Hernandez,2021-12-24,Security
+140,Jose Gonzales,2020-12-05,Stock Clerk
+141,Melinda Kelly,2023-09-25,Security
+142,Paul Allen,2022-10-11,Security
+143,Valerie Villanueva,2023-10-09,Sales Associate
+144,Misty Taylor,2022-02-16,Security
+145,Mary Mcgrath,2020-04-02,Stock Clerk
+146,Matthew Russell,2021-05-14,Manager
+147,Steven Reed,2021-04-27,Stock Clerk
+148,Jose King,2021-11-28,Manager
+149,Amy Mcgee,2021-09-29,Cashier
+150,Lisa Wilkins,2022-12-15,Cashier
+151,Joseph Brown,2022-02-28,Stock Clerk
+152,Christopher Barry,2023-06-10,Cashier
+153,Ashley Kramer,2023-03-21,Sales Associate
+154,Ryan Cowan,2023-04-30,Manager
+155,Sarah Bennett,2023-04-20,Manager
+156,Carla Harrington,2024-04-05,Stock Clerk
+157,Dr. Zachary Stephens,2021-06-01,Manager
+158,Briana Morris,2022-12-16,Security
+159,Jonathan Glenn,2021-01-07,Cashier
+160,Krystal Hall,2022-11-17,Sales Associate
+161,Jeremy Hendrix,2022-01-24,Security
+162,Chelsea Stein,2022-06-29,Manager
+163,Nathaniel Thomas,2022-07-13,Stock Clerk
+164,Nicole Smith,2024-01-21,Security
+165,Christy Steele,2022-01-25,Manager
+166,Sarah Moore,2020-06-17,Security
+167,Ms. Sarah Bryant PhD,2020-06-29,Stock Clerk
+168,April Spence,2021-01-25,Cashier
+169,Jennifer Suarez,2022-12-28,Cashier
+170,Richard Austin,2021-12-21,Cashier
+171,Susan Castillo,2022-12-29,Security
+172,Roberto Hill,2023-07-10,Security
+173,Joseph Ramsey,2023-04-02,Security
+174,Charles May,2021-11-29,Sales Associate
+175,Jeffrey Little,2021-03-13,Manager
+176,Benjamin Walker,2022-07-22,Security
+177,Derek Allen,2023-08-23,Security
+178,Debbie Ross,2022-12-28,Sales Associate
+179,Miguel Wright,2024-05-14,Manager
+180,Brandon Smith,2021-10-11,Cashier
+181,Jason Alexander,2020-04-17,Manager
+182,Jamie White,2022-02-12,Sales Associate
+183,Nathan Perez,2023-05-23,Sales Associate
+184,Jesse Vasquez,2021-04-12,Security
+185,William Quinn,2023-07-30,Manager
+186,Karen Lane,2021-04-05,Cashier
+187,Sandra Duffy,2022-10-15,Stock Clerk
+188,Marie Boone MD,2022-03-14,Cashier
+189,Jeff Roman,2021-05-01,Manager
+190,William Roberts,2020-07-27,Cashier
+191,Jason Thomas,2022-11-05,Cashier
+192,Jeremy Stewart,2023-05-08,Sales Associate
+193,Robert Wells,2023-11-16,Stock Clerk
+194,Craig Castaneda,2021-12-26,Sales Associate
+195,Kristina Mills,2024-02-26,Manager
+196,Miguel Smith,2021-09-30,Stock Clerk
+197,Tammy Trujillo,2022-04-18,Sales Associate
+198,David Jones,2022-02-03,Manager
+199,Joseph Ortega,2020-08-29,Manager
+200,Christopher Bean,2020-06-09,Sales Associate
+201,Christina Wright,2024-03-07,Stock Clerk
+202,Suzanne Cruz,2020-06-18,Manager
+203,Deborah Kline,2022-01-07,Cashier
+204,Kevin Manning,2023-03-07,Security
+205,Spencer Jacobs,2020-02-20,Sales Associate
+206,Monica Gregory,2023-10-23,Sales Associate
+207,Rebecca Garrett,2021-11-29,Stock Clerk
+208,Marilyn Parker,2022-12-08,Sales Associate
+209,Kaitlyn Cox,2020-07-20,Stock Clerk
+210,Rebecca Gordon,2024-04-08,Stock Clerk
+211,Erica Petersen,2020-10-16,Cashier
+212,Megan Hayes,2023-06-08,Manager
+213,Amber Contreras,2023-05-28,Manager
+214,Edward Valdez,2020-04-20,Cashier
+215,Anthony Patterson,2022-07-06,Security
+216,George Walters,2023-12-02,Security
+217,Emily Caldwell,2020-10-24,Stock Clerk
+218,Andrew Wu,2024-01-16,Sales Associate
+219,Tony Santiago,2023-05-01,Cashier
+220,Tara Martinez,2024-05-18,Manager
+221,April Smith,2021-03-08,Stock Clerk
+222,Jacqueline Thompson,2020-05-07,Stock Clerk
+223,Elizabeth Martinez,2022-02-02,Sales Associate
+224,Dr. Jessica Freeman DDS,2022-04-28,Sales Associate
+225,Melissa Cain,2022-10-19,Stock Clerk
+226,Joshua Garcia,2022-10-30,Sales Associate
+227,Ms. Angela Shelton,2024-05-08,Manager
+228,Jerry Barnes,2023-07-05,Cashier
+229,Brenda Williams,2020-02-07,Sales Associate
+230,Patrick Williams,2021-01-27,Cashier
+231,Dr. Kevin Joseph,2020-10-09,Cashier
+232,Jonathan Allen,2023-02-09,Stock Clerk
+233,Carla Jones,2021-03-23,Cashier
+234,Jack Ford,2023-02-22,Stock Clerk
+235,Kristi Sullivan,2022-10-04,Security
+236,Whitney Russell,2022-09-19,Manager
+237,Trevor Guerrero,2021-11-17,Manager
+238,Tina Ibarra,2020-03-21,Stock Clerk
+239,Christopher Mason,2022-11-14,Manager
+240,Valerie Flores,2023-04-09,Sales Associate
+241,Joseph West,2023-05-27,Manager
+242,Keith Ochoa,2020-08-24,Manager
+243,Tammy Hess,2024-02-25,Security
+244,Kristen Ward,2020-03-21,Sales Associate
+245,Nathan Davenport,2023-12-04,Manager
+246,Andrew Ortega,2021-12-19,Security
+247,Michael Chambers,2021-10-27,Sales Associate
+248,Patrick Cooley,2023-02-15,Sales Associate
+249,Sharon Townsend,2022-03-23,Sales Associate
+250,Jason Hamilton,2023-12-05,Manager
+251,Douglas Roach,2024-05-18,Manager
+252,Leslie Logan,2020-09-11,Cashier
+253,Andrea Stuart,2020-04-22,Manager
+254,Andrea Brown,2024-05-06,Cashier
+255,William Pugh,2021-10-01,Sales Associate
+256,Edward Patel,2021-02-08,Security
+257,Michelle Wright,2020-07-21,Manager
+258,Heidi Cook,2022-09-18,Manager
+259,Michael Harvey,2020-08-29,Stock Clerk
+260,Theodore Brady,2020-01-31,Security
+261,Michael Knapp,2023-05-28,Security
+262,Angela Miller,2022-10-02,Sales Associate
+263,Ricky Hogan,2020-09-10,Sales Associate
+264,Karen Morton,2022-02-14,Security
+265,Aaron Webster,2022-03-26,Security
+266,Mark Jones,2021-01-13,Security
+267,Gary Gross,2023-01-27,Manager
+268,Kathy Armstrong,2020-03-29,Manager
+269,James Murray,2023-12-09,Sales Associate
+270,Timothy Ho,2024-04-27,Manager
+271,Dale Atkinson,2020-05-10,Sales Associate
+272,Connor Bowen,2020-01-26,Cashier
+273,Richard Shaw,2021-05-14,Manager
+274,Dr. Vickie Greene,2023-01-02,Security
+275,Kari Stone,2023-04-27,Sales Associate
+276,Patrick Oconnor,2020-10-29,Manager
+277,Ian Vasquez,2021-01-18,Sales Associate
+278,Theodore Smith,2021-05-05,Cashier
+279,Kathryn Phillips,2020-09-06,Stock Clerk
+280,John Dickerson,2020-10-16,Security
+281,Terri Ortega,2023-05-26,Manager
+282,Jonathon Gallegos,2020-10-06,Security
+283,Courtney Cruz,2024-03-28,Sales Associate
+284,Justin Robinson,2021-04-18,Sales Associate
+285,Katherine Holmes,2020-04-29,Stock Clerk
+286,James Brown,2023-02-27,Sales Associate
+287,Morgan Johnston,2020-01-25,Sales Associate
+288,Jason Drake,2023-08-13,Cashier
+289,Katrina Brown,2022-11-21,Sales Associate
+290,Jesse Long,2023-09-11,Manager
+291,Heidi Baldwin,2022-06-11,Stock Clerk
+292,Kathryn Anderson,2023-01-08,Stock Clerk
+293,Phillip Russell,2021-08-19,Security
+294,Mark Ray,2023-07-05,Security
+295,Shannon Young,2021-11-28,Cashier
+296,Andrew Hebert,2022-08-24,Sales Associate
+297,Thomas Carney,2021-09-30,Manager
+298,Michelle Thomas,2023-07-01,Manager
+299,Stephanie White,2023-10-16,Sales Associate
+300,Adam Thomas,2022-08-21,Security
+301,Kenneth Moore,2023-09-30,Sales Associate
+302,Nicholas Bell,2022-03-16,Sales Associate
+303,Teresa Cruz,2021-01-14,Sales Associate
+304,Samantha Phillips,2020-03-06,Stock Clerk
+305,Melanie Perez,2021-12-17,Sales Associate
+306,Brian Melton,2023-10-17,Sales Associate
+307,Patricia Gonzalez,2020-09-27,Sales Associate
+308,Donald Evans,2022-06-15,Stock Clerk
+309,Sarah Rodriguez,2021-10-01,Manager
+310,Robert Rogers,2021-05-24,Cashier
+311,Lisa Frazier,2021-07-02,Cashier
+312,Matthew Garcia,2022-12-02,Cashier
+313,Stephanie Alvarez,2021-06-29,Manager
+314,Troy Lee,2020-02-25,Security
+315,Amanda Kline,2020-08-27,Stock Clerk
+316,Sophia Powell,2022-12-02,Manager
+317,Adam Everett,2021-05-12,Manager
+318,Katrina Johnson,2021-10-15,Security
+319,Brent Stewart,2022-05-31,Sales Associate
+320,Heidi King,2022-04-21,Cashier
+321,Rebecca Carey,2022-06-30,Sales Associate
+322,Robert Murray,2020-04-30,Security
+323,Amy Thompson,2021-12-29,Security
+324,Kathryn Barrett,2020-02-23,Security
+325,Pamela Moss,2022-03-13,Sales Associate
+326,Stephanie Singh,2024-04-05,Stock Clerk
+327,Brandi Bradley,2023-11-06,Stock Clerk
+328,Erica Clark,2024-04-19,Cashier
+329,Stacey Lewis,2021-08-17,Cashier
+330,Justin Brown,2021-06-07,Manager
+331,Bernard West,2022-05-20,Cashier
+332,Meghan Cervantes,2024-03-23,Stock Clerk
+333,Patrick Garrett,2020-12-11,Manager
+334,Gloria Stevens,2022-10-08,Sales Associate
+335,Paul Mayer,2021-03-05,Security
+336,Alan Maldonado,2021-01-30,Cashier
+337,Kyle Hernandez,2022-09-03,Manager
+338,David Lopez,2023-01-18,Cashier
+339,Sherri White,2020-04-06,Cashier
+340,Charles Garrett,2020-12-14,Cashier
+341,Dr. Margaret Garrett,2020-02-10,Manager
+342,Margaret Salazar,2022-06-07,Stock Clerk
+343,Courtney Shaffer,2021-05-06,Stock Clerk
+344,Rodney Thomas,2021-12-21,Cashier
+345,Gregory Ramsey,2023-12-04,Security
+346,Brenda Khan,2020-02-26,Sales Associate
+347,Matthew Wilson,2023-08-14,Security
+348,Derrick Yates MD,2023-05-19,Sales Associate
+349,Patrick Summers,2021-01-17,Stock Clerk
+350,Shannon Robertson,2023-06-21,Sales Associate
+351,Joshua Hodges,2020-12-28,Stock Clerk
+352,Paul Rice,2023-11-04,Manager
+353,Mr. David Cooke,2022-12-18,Stock Clerk
+354,Jeffrey Hodges,2023-12-16,Sales Associate
+355,Allen Walters,2023-10-18,Cashier
+356,Michael Olson,2023-02-13,Stock Clerk
+357,Jamie Johnson,2023-05-05,Sales Associate
+358,Amy Walters,2022-04-19,Manager
+359,Larry Young,2022-10-30,Cashier
+360,Joshua Hayes,2022-08-13,Sales Associate
+361,Tamara Sullivan,2023-04-08,Cashier
+362,Kaitlyn Monroe,2021-01-28,Stock Clerk
+363,Kaitlyn Jimenez,2023-03-02,Cashier
+364,Shawn Howard,2021-07-12,Sales Associate
+365,John Anderson,2023-11-11,Cashier
+366,Brian Russell,2022-01-29,Manager
+367,Kristy Lucero,2021-06-24,Stock Clerk
+368,Eric Pollard,2020-12-02,Stock Clerk
+369,Debra Stephens,2020-12-07,Manager
+370,Paul Gates,2023-10-08,Sales Associate
+371,Jason Anderson,2023-03-03,Sales Associate
+372,Michael White,2023-08-24,Manager
+373,Jamie Green,2023-11-02,Sales Associate
+374,Timothy Patterson,2020-08-25,Cashier
+375,Cynthia Davis,2020-01-29,Cashier
+376,Elizabeth Sosa,2021-01-30,Manager
+377,Jacob Rodriguez,2022-04-28,Manager
+378,John Hill,2022-01-03,Manager
+379,Timothy Benson,2021-02-22,Security
+380,Elizabeth White,2022-08-05,Stock Clerk
+381,Michael Price,2022-02-01,Security
+382,Brandon Mcdaniel,2021-10-15,Cashier
+383,Kelly Flowers,2023-08-22,Stock Clerk
+384,Bruce Villanueva,2021-02-01,Sales Associate
+385,Wendy Hall,2021-10-27,Stock Clerk
+386,Jake Page,2023-08-19,Stock Clerk
+387,Kathy Green,2023-06-23,Sales Associate
+388,Antonio Sellers,2020-12-05,Cashier
+389,Scott Parks,2020-11-23,Cashier
+390,Mr. Paul Hawkins,2023-06-17,Manager
+391,Patricia Garcia,2020-04-14,Sales Associate
+392,Martin Underwood,2024-03-06,Sales Associate
+393,Jasmine Richardson,2020-10-15,Security
+394,Julie Alexander,2024-01-20,Security
+395,Daniel York,2020-12-27,Sales Associate
+396,Taylor Whitaker,2024-02-14,Manager
+397,Oscar Johnson,2021-10-14,Stock Clerk
+398,Brittany Hughes,2023-08-11,Security
+399,Timothy Hood,2024-05-18,Manager
+400,Laura Herman,2021-01-24,Security
