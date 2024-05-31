@@ -1,6 +1,5 @@
--lior tordjman
+- Lior Tordjman
 
--samuel tapiro
+- Samuel Tapiro
 
--daniel elbaz
-
+- Daniel Elbaz
