@@ -1,0 +1,1001 @@
+ProductID,ProductName,Price,TypeOfProduct
+5299,electronics,3593,sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio
+3327,clothing,1042,lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien
+8727,toys,399,volutpat eleifend donec ut dolor morbi vel lectus in quam
+6672,home goods,4657,quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis
+6979,toys,7190,placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi
+8702,electronics,2772,in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis
+3806,clothing,4266,suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu
+6425,electronics,1990,in hac habitasse platea dictumst maecenas ut massa quis augue
+7184,clothing,6215,duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus
+6772,electronics,7304,magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis
+9255,electronics,1636,suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus
+5061,home goods,4074,consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl
+3149,food,3546,magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis
+7530,clothing,8436,vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien
+8805,electronics,3659,nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede
+7246,toys,1140,id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris
+666,home goods,2134,pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi
+6671,toys,2305,tempus vel pede morbi porttitor lorem id ligula suspendisse ornare
+5545,food,2935,in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel
+7627,toys,7248,tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet
+9995,clothing,3923,dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo
+5610,clothing,6563,ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet
+8769,electronics,3779,id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu
+2200,toys,4125,in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis
+5164,clothing,5711,erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse
+6248,food,6338,dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus
+585,clothing,135,sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim
+9927,electronics,3536,semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie
+8724,clothing,3397,diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum
+5789,home goods,2071,etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam
+3053,clothing,8323,at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec
+7927,clothing,6079,condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris
+8442,food,6603,ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam
+4404,toys,4412,donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede
+3279,toys,2238,porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit
+2948,electronics,7302,tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl
+5997,home goods,9788,montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque
+763,toys,2981,sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus
+3203,food,7581,rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede
+6281,toys,4872,aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus
+417,electronics,7383,purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam
+7508,electronics,532,donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo
+9564,clothing,3362,leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper
+9225,toys,8302,condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu
+8063,food,6690,condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet
+3675,food,8105,tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum
+3102,food,4625,vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat
+8811,toys,6167,nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta
+8,clothing,261,pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse
+1505,food,7341,augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer
+8518,home goods,5166,nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes
+44,home goods,2925,facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque
+506,toys,1172,luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien
+4758,toys,6904,cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget
+4854,clothing,115,non lectus aliquam sit amet diam in magna bibendum imperdiet
+9317,electronics,2442,ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus
+5482,electronics,4173,sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce
+9219,food,8134,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis
+5943,food,9340,curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum
+96,food,2986,consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien
+9410,home goods,6052,sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis
+9569,home goods,1311,pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales
+5551,clothing,6110,platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam
+5990,toys,8,massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in
+7571,home goods,143,vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices
+3816,clothing,9661,lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer
+1434,electronics,243,pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante
+3999,clothing,7784,ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
+3651,electronics,3359,imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris
+6440,home goods,2156,est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec
+960,food,9691,semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis
+8676,food,9488,metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci
+4112,home goods,7245,nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse
+6907,clothing,5484,maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices
+1753,home goods,4911,molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus
+1267,home goods,1596,amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo
+9864,electronics,3697,tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero
+61,home goods,4656,nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet
+8577,electronics,120,sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc
+9450,electronics,9740,rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus
+9379,home goods,9690,porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non
+783,clothing,4219,semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor id
+7568,home goods,129,semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie
+7858,clothing,7062,massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio
+4108,clothing,2704,ac enim in tempor turpis nec euismod scelerisque quam turpis
+7490,toys,5249,quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante
+3593,food,9708,congue etiam justo etiam pretium iaculis justo in hac habitasse
+2740,toys,8210,sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis
+6540,clothing,2521,sed magna at nunc commodo placerat praesent blandit nam nulla integer pede
+9790,food,6228,faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec
+3675,home goods,9425,ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem
+7459,clothing,233,lectus vestibulum quam sapien varius ut blandit non interdum in ante
+4203,food,9349,a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien
+4448,clothing,5940,id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras
+2389,clothing,7853,quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus
+8482,home goods,7161,aliquam sit amet diam in magna bibendum imperdiet nullam orci
+6290,toys,8304,sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan
+4041,toys,4767,porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus
+8351,clothing,8449,lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis
+9793,toys,8328,eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis
+6076,food,6553,eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes
+4225,food,6653,ut erat curabitur gravida nisi at nibh in hac habitasse platea
+4383,food,2375,scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante
+6656,food,2215,erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit
+3716,food,103,natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis
+6855,home goods,3989,id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo
+5371,home goods,3851,sit amet justo morbi ut odio cras mi pede malesuada in imperdiet
+7641,electronics,2261,libero quis orci nullam molestie nibh in lectus pellentesque at nulla
+788,clothing,9929,tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat
+7609,clothing,4980,ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed
+2610,home goods,7304,libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor
+7858,electronics,1216,in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio
+1384,electronics,4837,mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede
+9380,electronics,4311,sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed
+1587,electronics,1992,pellentesque volutpat dui maecenas tristique est et tempus semper est quam
+2651,home goods,1989,aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus
+3314,electronics,2537,non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus
+7777,electronics,6553,adipiscing elit proin risus praesent lectus vestibulum quam sapien varius
+2325,clothing,496,lorem quisque ut erat curabitur gravida nisi at nibh in hac
+6053,food,6454,fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar
+2707,food,6809,molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus
+2695,toys,5648,proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque
+7031,food,2190,phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus
+9341,food,2253,leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis
+7015,food,4136,cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel
+8871,clothing,7522,sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus
+4957,home goods,314,sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum
+6587,food,4819,congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque
+8479,toys,9595,elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus
+2349,food,9453,molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst
+8781,home goods,5736,orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel
+263,electronics,5846,luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus
+6781,clothing,9693,lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget
+7337,home goods,9632,ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor
+2269,toys,9012,volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit
+2137,electronics,1203,augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec
+6281,electronics,9010,lobortis est phasellus sit amet erat nulla tempus vivamus in
+3982,food,7023,facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel
+9954,home goods,6167,dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis
+7874,electronics,2521,elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt
+6415,home goods,5483,vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc
+4065,electronics,8279,odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam
+6480,food,5102,sapien a libero nam dui proin leo odio porttitor id
+2830,food,7522,tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi
+2136,clothing,1918,habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam
+8300,clothing,2804,enim blandit mi in porttitor pede justo eu massa donec dapibus duis
+3797,home goods,9919,id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi
+433,toys,2008,volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc
+6725,clothing,2841,ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur
+9417,toys,8093,nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit
+2822,clothing,9612,a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas
+6382,toys,6138,ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo
+4757,toys,6624,habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel
+9234,home goods,4754,dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam
+2642,electronics,1985,vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum
+3075,toys,3515,nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non
+9707,clothing,9843,in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat
+7780,clothing,5885,congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat
+5369,home goods,4089,montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id
+9974,toys,1377,nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices
+9371,food,7897,semper sapien a libero nam dui proin leo odio porttitor id consequat in
+3837,food,7866,augue a suscipit nulla elit ac nulla sed vel enim sit amet
+1511,toys,3308,at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero
+6525,home goods,5527,tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc
+8678,toys,4216,in leo maecenas pulvinar lobortis est phasellus sit amet erat
+6935,food,8108,feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare
+3701,toys,8855,habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum
+70,home goods,4985,praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in
+9462,food,7781,hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem
+1511,home goods,4315,convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est
+8169,electronics,8053,ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta
+1063,electronics,8074,mattis egestas metus aenean fermentum donec ut mauris eget massa
+6086,electronics,1199,nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra
+1248,clothing,2011,nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem
+1644,toys,7287,at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi
+7523,toys,3284,justo sollicitudin ut suscipit a feugiat et eros vestibulum ac
+3191,electronics,1020,vel nisl duis ac nibh fusce lacus purus aliquet at
+9037,toys,5005,cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus
+327,food,4515,cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor
+5313,clothing,8724,nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus
+3134,toys,5574,pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc
+2049,home goods,7789,ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
+6667,food,814,aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan
+2775,food,8451,aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam
+5415,home goods,7670,curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi
+4531,electronics,1188,rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi
+6670,home goods,9183,est donec odio justo sollicitudin ut suscipit a feugiat et
+4933,toys,9593,sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper
+2429,electronics,3301,quis lectus suspendisse potenti in eleifend quam a odio in hac
+7972,toys,4069,et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in
+3534,clothing,3359,nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh
+6959,home goods,4258,est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla
+2484,toys,9238,et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida
+6084,toys,8077,ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla
+5259,clothing,6910,tellus nulla ut erat id mauris vulputate elementum nullam varius
+9580,clothing,756,diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi
+5333,electronics,5961,luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh
+9708,food,7212,et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer
+7572,clothing,9458,diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus
+7364,home goods,8770,in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus
+3333,food,8169,felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed
+2194,clothing,1758,est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim
+2427,electronics,7800,elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi
+9675,toys,4507,in imperdiet et commodo vulputate justo in blandit ultrices enim
+8306,home goods,4813,ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris
+5523,food,9382,egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu
+4904,home goods,9818,primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio
+5143,food,9805,lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat
+6794,toys,3324,viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi
+3993,electronics,5296,vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet
+8568,food,3703,nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et
+1201,home goods,4643,tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis
+2576,clothing,9887,morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus
+7414,clothing,2428,sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla
+7314,toys,3697,volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla
+5024,toys,7843,dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean
+980,electronics,2041,sapien cursus vestibulum proin eu mi nulla ac enim in
+3061,home goods,4931,lorem quisque ut erat curabitur gravida nisi at nibh in hac
+2617,home goods,3086,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam
+2326,clothing,9983,sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum
+5247,home goods,8845,quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor
+7105,toys,4250,commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin
+2265,electronics,7549,penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum
+1800,home goods,1238,turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien
+5858,toys,7740,vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium
+6442,food,2810,nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit
+9116,clothing,8729,nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris
+2186,electronics,1353,ut erat id mauris vulputate elementum nullam varius nulla facilisi
+7255,clothing,9508,cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam
+7173,toys,5182,id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue
+1059,clothing,9351,aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris
+6648,food,6821,rhoncus dui vel sem sed sagittis nam congue risus semper porta
+8276,clothing,2160,metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam
+5136,toys,5078,amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus
+7940,electronics,8377,viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum
+6421,clothing,1811,sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus
+7942,food,7458,consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum
+3545,toys,3504,lorem ipsum dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius
+333,home goods,7902,maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum
+8533,food,8315,dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus
+467,electronics,3677,hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla
+4487,clothing,8300,eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam
+88,food,1613,nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue
+2224,home goods,1158,eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor
+3586,clothing,55,porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in
+8155,toys,2419,fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies
+2707,home goods,3005,pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra
+7761,clothing,807,non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis
+9890,home goods,295,in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum
+8688,clothing,4940,posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus
+7441,home goods,8678,vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis
+4556,clothing,2512,vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia
+3217,electronics,9949,odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor
+5777,food,1969,eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes
+5057,toys,3975,ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique
+5077,toys,3448,elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis
+4209,food,4854,id ligula suspendisse ornare consequat lectus in est risus auctor
+3716,electronics,8822,magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi
+8704,clothing,1163,integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet
+1357,food,8794,diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam
+2710,home goods,6876,gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada
+5500,electronics,5334,aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis
+4466,home goods,4908,et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et
+5250,food,3207,congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis
+7816,clothing,907,nunc purus phasellus in felis donec semper sapien a libero nam dui
+972,electronics,8747,mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in
+8658,electronics,7752,venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien
+6925,home goods,8206,lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci
+8865,electronics,1858,ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit
+943,home goods,6970,risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam
+350,electronics,7431,felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed
+3780,clothing,1765,orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh
+7273,food,1336,tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa
+9028,electronics,4476,iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla
+4859,toys,4918,ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla
+970,toys,3001,parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida
+4885,food,6412,amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut
+5383,home goods,7856,porttitor pede justo eu massa donec dapibus duis at velit eu
+4136,clothing,4510,lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue
+7480,home goods,7355,primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor
+7741,toys,4187,magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor
+1374,food,1458,dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices
+7906,home goods,3057,malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer
+9493,food,1038,vestibulum sit amet cursus id turpis integer aliquet massa id lobortis
+6251,clothing,7087,amet diam in magna bibendum imperdiet nullam orci pede venenatis non
+2892,toys,2396,pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra
+3144,electronics,5828,donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed
+4016,electronics,3774,congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in
+1378,clothing,4007,morbi a ipsum integer a nibh in quis justo maecenas rhoncus
+8737,home goods,6749,eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum
+7415,electronics,6511,id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in
+9434,food,2967,felis ut at dolor quis odio consequat varius integer ac leo
+5642,electronics,9390,elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in
+748,electronics,9853,in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et
+4984,toys,3265,odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit
+9226,home goods,9295,morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl
+4157,clothing,1222,donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum
+2204,home goods,7165,aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget
+4999,clothing,8739,nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo
+8696,toys,4138,donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis
+6627,toys,2869,ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi
+4180,toys,2523,proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante
+7575,toys,9501,nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque
+4367,home goods,1926,nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla
+8126,food,3743,nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus
+7319,toys,4055,ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio
+201,electronics,434,penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem
+4801,home goods,2598,cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam
+410,food,9476,magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed
+5000,food,2329,at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis
+3219,electronics,6084,faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus
+7636,food,8889,donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam
+8542,toys,8745,diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non
+5310,clothing,7637,diam erat fermentum justo nec condimentum neque sapien placerat ante
+6910,toys,2266,quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas
+2028,home goods,7151,habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec
+9846,home goods,541,justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate
+2714,clothing,4993,tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit
+9115,home goods,453,pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna
+5460,home goods,3079,non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel
+1705,toys,8125,consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut
+5241,toys,4899,dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit
+383,electronics,7502,lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices
+2274,home goods,7097,faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut
+5015,electronics,367,consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque
+6526,electronics,4557,interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum
+4695,toys,4082,morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque
+2133,food,2428,velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum
+3488,clothing,8337,in imperdiet et commodo vulputate justo in blandit ultrices enim
+7895,toys,6038,magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes
+9354,home goods,9160,orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna
+568,electronics,6604,ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam
+5453,home goods,1041,turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam
+9849,home goods,8146,sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique
+4641,food,8440,morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices
+1065,home goods,8007,volutpat dui maecenas tristique est et tempus semper est quam pharetra
+9101,toys,7380,leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit
+2540,electronics,6283,metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc
+5700,clothing,2433,tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum
+2004,home goods,5329,massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet
+5741,toys,1587,in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit
+3544,electronics,4785,iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna
+2022,home goods,5863,donec ut mauris eget massa tempor convallis nulla neque libero
+5537,clothing,4313,lacus at turpis donec posuere metus vitae ipsum aliquam non mauris
+1066,electronics,6606,morbi porttitor lorem id ligula suspendisse ornare consequat lectus in
+3539,clothing,6452,vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula
+1824,food,2988,nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus
+9956,toys,8013,aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in
+8997,electronics,7390,sit amet diam in magna bibendum imperdiet nullam orci pede
+5723,food,4337,ut ultrices vel augue vestibulum ante ipsum primis in faucibus
+7717,toys,9329,hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat
+4341,clothing,6033,vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed
+3063,food,6827,ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient
+7249,home goods,2996,volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet
+1202,home goods,2493,dolor vel est donec odio justo sollicitudin ut suscipit a feugiat
+3930,food,1007,felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed
+5649,toys,2374,vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat
+205,clothing,8901,eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum
+7011,clothing,7569,orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio
+746,food,7226,duis at velit eu est congue elementum in hac habitasse platea
+8453,home goods,2911,nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus
+4007,home goods,2730,odio justo sollicitudin ut suscipit a feugiat et eros vestibulum
+3004,food,4027,vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros
+9137,clothing,6375,dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in
+7985,clothing,2803,natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis
+8998,home goods,3064,mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id
+4234,food,8210,proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in
+2749,clothing,5507,quis augue luctus tincidunt nulla mollis molestie lorem quisque ut
+2943,toys,8635,volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam
+8366,home goods,6458,id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec
+7543,toys,9562,aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt
+3705,toys,4934,platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent
+2824,toys,6337,nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae
+1797,food,2791,vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis
+672,electronics,8997,mauris vulputate elementum nullam varius nulla facilisi cras non velit
+2257,toys,2842,aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris
+492,clothing,2613,luctus rutrum nulla tellus in sagittis dui vel nisl duis
+4189,clothing,7286,sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus
+2696,electronics,6317,hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget
+897,electronics,3012,justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin
+3470,toys,1075,sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non
+1491,food,9021,adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget
+3493,food,9223,mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor
+9254,toys,3223,accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec
+5937,clothing,6606,hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum
+8487,electronics,9004,odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie
+3560,toys,7007,faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi
+9989,toys,9049,non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea
+2840,home goods,2699,nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit
+1016,home goods,4008,sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at
+3320,clothing,9567,dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam
+6594,toys,2984,vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam
+8228,home goods,31,nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida
+2984,food,3298,amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis
+6522,clothing,4116,in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis
+9115,toys,7286,vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci
+5229,electronics,4951,curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at
+7123,toys,2137,at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin
+3513,toys,2384,aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor
+2096,food,5047,sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis
+6231,food,8551,massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet
+5179,electronics,9323,vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat
+962,clothing,7493,in felis donec semper sapien a libero nam dui proin leo
+7426,clothing,2822,sed accumsan felis ut at dolor quis odio consequat varius integer ac
+9164,electronics,8916,tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in
+1520,toys,5634,eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies
+4913,electronics,6982,sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget
+7120,clothing,4243,quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus
+7655,home goods,6693,suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas
+7707,home goods,6508,hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer
+6861,food,6074,eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra
+4561,electronics,658,sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam
+4085,home goods,8826,metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus
+291,food,7461,erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu
+429,electronics,2674,primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam
+4938,toys,981,nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam
+3736,electronics,8128,quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus
+9542,clothing,4105,elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in
+8923,food,7722,sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et
+6086,home goods,8610,ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing
+73,electronics,4524,magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce
+4185,clothing,4305,semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus
+6855,clothing,1731,id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui
+4723,home goods,3231,in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt
+810,home goods,1942,nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit
+5524,clothing,2703,etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non
+9864,toys,7861,volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie
+3695,food,318,natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean
+5878,toys,3127,at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero
+3079,home goods,7413,id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede
+3686,food,1568,nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id
+1853,toys,2254,nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum
+2886,food,6666,molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in
+419,toys,4357,ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec
+4463,clothing,6474,nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu
+1461,clothing,2405,nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis
+3887,toys,8512,venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate
+8119,electronics,9932,justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in
+1414,toys,673,et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend
+7603,electronics,8432,proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus
+7382,toys,7305,ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel
+2482,food,3446,ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit
+1477,toys,1152,id turpis integer aliquet massa id lobortis convallis tortor risus
+9136,food,8485,augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id
+4117,food,2018,at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci
+3528,food,4689,curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis
+1834,clothing,5081,sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique
+2724,toys,5924,sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien
+2494,electronics,9484,potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus
+5028,home goods,67,eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam
+2523,electronics,6231,augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna
+9068,clothing,7485,quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus
+2836,home goods,4550,at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget
+5392,toys,2773,ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices
+3564,food,3214,tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim
+9298,electronics,3714,libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut
+7819,food,6731,libero nullam sit amet turpis elementum ligula vehicula consequat morbi
+2934,toys,369,orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae
+2106,electronics,8329,leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas
+4312,clothing,1397,fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo
+6075,home goods,6098,massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede
+5490,electronics,2614,donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam
+5832,home goods,9305,nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a
+5615,toys,5144,nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet
+3162,toys,3842,vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non
+9463,clothing,579,convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas
+1424,food,7643,ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque
+5729,electronics,6146,sapien ut nunc vestibulum ante ipsum primis in faucibus orci
+945,food,5962,vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet
+4625,home goods,937,vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel
+7166,home goods,8077,dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id
+4744,home goods,8451,amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit
+6759,electronics,5411,est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum
+9786,toys,4671,morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit
+2031,toys,3190,eu orci mauris lacinia sapien quis libero nullam sit amet
+4660,electronics,5797,sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris
+1968,food,714,sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis
+9361,toys,5558,blandit nam nulla integer pede justo lacinia eget tincidunt eget
+5224,clothing,7374,primis in faucibus orci luctus et ultrices posuere cubilia curae mauris
+3229,food,9634,ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo
+4628,toys,957,ac tellus semper interdum mauris ullamcorper purus sit amet nulla
+4472,electronics,3053,amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus
+1020,toys,7887,nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi
+5455,clothing,5617,blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede
+1235,food,2173,cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis
+1236,clothing,5895,pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique
+9190,electronics,4729,velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget
+1650,toys,89,praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in
+2244,clothing,3389,nam dui proin leo odio porttitor id consequat in consequat ut
+4280,electronics,5851,sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut
+3949,home goods,579,ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce
+2730,toys,6447,interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie
+6636,food,5785,sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer
+6749,food,6672,ligula vehicula consequat morbi a ipsum integer a nibh in
+6520,food,5379,sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper
+5674,food,890,faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam
+7225,food,6136,pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est
+6768,food,9652,vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum
+9113,clothing,702,aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat
+4278,electronics,8675,ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor
+3630,food,9632,donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris
+2572,home goods,4848,non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non
+2437,toys,3293,consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc
+8191,food,7953,interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at
+4821,home goods,3067,vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum
+6861,home goods,5061,odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor
+8628,clothing,5027,orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna
+3880,electronics,875,sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla
+9337,electronics,8834,sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet
+3907,clothing,1655,eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis
+1023,clothing,9836,ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec
+7856,home goods,8880,consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla
+2758,toys,3851,duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in
+9980,clothing,6435,ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt
+3469,electronics,2737,integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat
+2279,food,9588,in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae
+8928,electronics,7266,suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis
+6279,toys,1531,dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel
+6721,clothing,1738,morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam
+7843,electronics,3809,primis in faucibus orci luctus et ultrices posuere cubilia curae donec
+1439,electronics,609,lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum
+1657,food,961,scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis
+9872,food,8678,sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis
+4050,food,8291,rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa
+6896,food,7490,nulla eget eros elementum pellentesque quisque porta volutpat erat quisque
+3520,food,2401,nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor
+4313,home goods,1559,fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque
+2016,home goods,4165,pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue
+4872,home goods,940,turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin
+8787,electronics,4419,sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
+6213,home goods,9168,in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius
+2750,home goods,4197,nulla ultrices aliquet maecenas leo odio condimentum id luctus nec
+2428,toys,2697,malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum
+5803,home goods,5182,praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi
+5766,home goods,3729,eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus
+5330,toys,1108,eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare
+4147,electronics,933,et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi
+6136,electronics,3604,vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit
+5145,clothing,9162,nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas
+3848,toys,7730,condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque
+7334,electronics,9781,imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris
+6259,home goods,2182,pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper
+8911,home goods,7276,fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl
+4735,toys,3942,at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in
+6513,toys,490,nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis
+594,electronics,9151,consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla
+951,home goods,296,platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum
+6937,home goods,9086,fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede
+2749,clothing,6218,magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in
+4927,electronics,9245,quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus
+4498,electronics,7062,tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui
+1966,electronics,6484,in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet
+2204,electronics,7149,in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing
+5328,toys,9787,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
+7522,toys,9356,amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper
+1327,electronics,1012,porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci
+2956,clothing,1532,consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent
+2167,home goods,3829,eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum
+7622,food,3603,id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at
+8395,toys,8845,potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non
+7294,toys,1684,tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat
+1888,food,9315,tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac
+4014,toys,672,sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis
+9024,toys,2022,suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus
+5955,electronics,2878,sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed
+1139,home goods,8035,lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis
+5995,home goods,8854,diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue
+8963,food,1497,ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer
+9369,home goods,7805,dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus
+6557,clothing,652,non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet
+85,electronics,8909,libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in
+3143,clothing,8781,eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis
+3594,toys,8960,ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat
+3770,clothing,4523,eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in
+7573,food,7343,ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in
+3294,electronics,4200,cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus
+3938,food,6665,diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit
+2921,clothing,2012,curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam
+7697,clothing,2421,nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum
+9695,toys,2648,arcu libero rutrum ac lobortis vel dapibus at diam nam tristique
+87,toys,3916,in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla
+9678,toys,3532,amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus
+9966,clothing,1798,quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus
+437,toys,4444,tortor risus dapibus augue vel accumsan tellus nisi eu orci
+1207,clothing,7737,sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit
+3096,clothing,9089,enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris
+3998,electronics,5694,mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis
+1467,clothing,3355,tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque
+8916,toys,8287,vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus
+3974,home goods,5289,diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis
+5808,electronics,7199,tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor
+7983,food,9658,lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in
+4931,electronics,4656,nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim
+3889,clothing,6726,leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas
+3661,food,4324,maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus
+2560,clothing,8473,aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt
+1554,toys,185,fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque
+8344,toys,1618,viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis
+5504,electronics,6410,lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at
+755,clothing,1607,luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat
+4649,toys,1243,vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat
+8510,electronics,4568,eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum
+7573,clothing,7592,interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac
+7998,clothing,3901,lectus suspendisse potenti in eleifend quam a odio in hac
+4001,clothing,2644,rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat
+7850,electronics,7666,eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam
+5749,clothing,2496,ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus
+581,home goods,3879,laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper
+4341,food,7647,aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis
+6339,toys,668,varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede
+1692,toys,2606,nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel
+8349,toys,2015,pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque
+6081,electronics,8625,suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae
+7641,clothing,2991,nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit
+465,toys,1911,aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus
+9997,electronics,4920,justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst
+1123,toys,8634,pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem
+9537,toys,4875,velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque
+8232,clothing,2130,donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies
+2847,home goods,7512,nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel
+5131,electronics,1604,metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque
+3239,food,8166,a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut
+3784,electronics,9024,nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim
+2263,food,7458,augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh
+756,electronics,2563,sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis
+2020,toys,3149,enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet
+2817,toys,7616,curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien
+1505,food,1621,nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac
+4056,electronics,5482,accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet
+1091,clothing,2894,velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum
+6442,food,5927,pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in
+7496,toys,4216,id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede
+5272,food,4855,maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien
+923,clothing,6495,vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
+4788,home goods,8998,habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum
+271,food,5561,faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel
+6167,home goods,3787,integer non velit donec diam neque vestibulum eget vulputate ut ultrices
+6922,electronics,6681,in felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat
+5338,food,5026,non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque
+5883,food,6717,tempor convallis nulla neque libero convallis eget eleifend luctus ultricies
+7973,toys,6119,pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis
+9282,food,8623,lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue
+6644,home goods,3638,integer ac leo pellentesque ultrices mattis odio donec vitae nisi
+9223,home goods,6663,amet turpis elementum ligula vehicula consequat morbi a ipsum integer
+8667,toys,6046,vestibulum quam sapien varius ut blandit non interdum in ante
+5287,home goods,2214,integer pede justo lacinia eget tincidunt eget tempus vel pede
+1052,toys,2989,cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus
+4198,electronics,5613,et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing
+2875,home goods,8773,facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel
+6970,toys,898,felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed
+1959,electronics,1902,metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci
+4428,home goods,4050,tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus
+7804,toys,3368,lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst
+759,home goods,9184,morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis
+3403,toys,9586,phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus
+5284,food,3728,dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum
+2451,toys,2907,pede posuere nonummy integer non velit donec diam neque vestibulum
+2766,food,5521,eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien
+9264,clothing,9701,amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce
+2430,toys,4425,suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id
+9379,toys,8159,cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus
+3205,toys,6646,mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus
+2983,toys,229,id nisl venenatis lacinia aenean sit amet justo morbi ut odio
+5628,electronics,1978,adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus
+5980,toys,4307,mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis
+6115,home goods,8063,pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio
+8192,toys,8066,hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam
+4614,toys,6440,odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem
+669,clothing,3718,odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit
+3343,food,2217,et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id
+762,food,8703,adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus
+9264,food,3247,vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris
+7025,clothing,9351,interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis
+1689,electronics,9711,sagittis nam congue risus semper porta volutpat quam pede lobortis
+6275,food,5525,ut blandit non interdum in ante vestibulum ante ipsum primis
+892,electronics,1078,risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede
+271,food,6788,in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien
+3500,toys,7626,molestie lorem quisque ut erat curabitur gravida nisi at nibh
+8013,home goods,9886,nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam
+2000,electronics,4419,posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit
+6569,clothing,3471,ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam
+4251,electronics,3391,in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at
+1010,toys,6648,ullamcorper augue a suscipit nulla elit ac nulla sed vel
+8298,clothing,9853,vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis
+9392,toys,8280,nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac
+4979,home goods,7728,sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis
+3728,electronics,5418,blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse
+9665,home goods,5186,cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue
+6403,food,6097,ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et
+8463,toys,1607,pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum
+517,toys,86,ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate
+7878,clothing,5132,mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis
+4884,clothing,8825,lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh
+8002,home goods,9861,in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar
+5098,clothing,7143,vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus
+612,electronics,9613,tincidunt eu felis fusce posuere felis sed lacus morbi sem
+4219,electronics,2571,duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor
+8185,electronics,3378,felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla
+6588,toys,9748,ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac
+5329,home goods,3350,velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis
+4878,food,7012,luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec
+2673,food,2029,orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a
+4197,toys,3651,eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh
+1332,clothing,824,ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae
+4750,clothing,8600,penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum
+6088,electronics,9845,nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas
+4501,toys,7146,est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec
+5971,home goods,6786,ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices
+2039,toys,637,elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing
+3910,clothing,1605,magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien
+7494,food,2348,aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit
+4358,clothing,5568,sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla
+3457,electronics,2875,id consequat in consequat ut nulla sed accumsan felis ut at dolor quis
+4838,home goods,3613,tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero
+7458,clothing,9027,sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse
+7686,toys,5735,praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi
+829,toys,1807,enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu
+5670,clothing,2381,leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras
+4599,home goods,6915,in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget
+2880,electronics,687,pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra
+9753,clothing,5558,quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at
+115,toys,1155,pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean
+7196,food,6506,blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum
+2174,toys,5630,enim blandit mi in porttitor pede justo eu massa donec dapibus duis
+6797,home goods,230,aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus
+1895,home goods,4881,turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut
+5525,electronics,9523,sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti
+1869,toys,9988,sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna
+8730,home goods,3873,pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum
+5395,toys,1186,felis ut at dolor quis odio consequat varius integer ac
+9355,food,7764,convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas
+6438,food,4392,mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel
+7464,toys,7017,vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse
+4962,food,6239,in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin
+6612,toys,4976,magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien
+5633,home goods,6618,eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum
+1633,clothing,5436,at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis
+2458,food,2234,blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non
+3123,home goods,5030,neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo
+3772,home goods,1319,lorem quisque ut erat curabitur gravida nisi at nibh in
+2046,food,427,sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in
+8233,food,7844,metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec
+867,food,3002,eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in
+9516,toys,8948,quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent
+4874,toys,9875,pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor
+1291,home goods,152,risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in
+9350,home goods,8680,sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non
+6787,home goods,6283,mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie
+2612,electronics,7098,justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie
+4943,toys,137,nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus
+4501,toys,6,augue luctus tincidunt nulla mollis molestie lorem quisque ut erat
+8234,toys,482,diam cras pellentesque volutpat dui maecenas tristique est et tempus
+283,toys,1467,sit amet eleifend pede libero quis orci nullam molestie nibh in
+4211,clothing,3956,in faucibus orci luctus et ultrices posuere cubilia curae nulla
+9892,food,5654,lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit
+2753,electronics,573,risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus
+2834,food,2885,lorem ipsum dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit
+9977,toys,1141,elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis
+9597,food,1069,etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius
+3809,home goods,8265,nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede
+6497,food,3184,ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl
+526,electronics,2408,enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit
+857,toys,1447,ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus
+6705,food,492,dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet
+3035,clothing,3936,vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi
+7248,toys,9450,feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl
+2002,electronics,4043,sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui
+7417,clothing,2183,mauris morbi non lectus aliquam sit amet diam in magna
+9689,home goods,7937,ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae
+2282,home goods,4943,ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et
+801,clothing,7380,amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem
+5039,food,1915,vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in
+6002,toys,1487,eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet
+1818,food,9649,aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit
+9498,food,7920,volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis
+7397,electronics,3912,hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla
+1893,food,7365,in felis eu sapien cursus vestibulum proin eu mi nulla ac enim
+9889,clothing,9512,commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum
+3496,home goods,1758,non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus
+5890,home goods,175,sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio
+8099,food,6444,dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id
+5318,electronics,8663,nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros
+3445,food,3863,amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus
+394,food,9198,quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper
+3834,electronics,8414,lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat
+1652,home goods,8041,nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia
+3855,toys,643,dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus
+778,home goods,7946,habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius
+4297,electronics,1231,aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa
+2825,home goods,392,proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum
+3146,toys,4655,a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in
+1399,clothing,4778,vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam
+2570,electronics,4585,amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque
+5408,electronics,9525,metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci
+5266,clothing,5788,pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et
+6664,clothing,6353,diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue
+7730,home goods,3607,mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non
+2154,electronics,3464,in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec
+8195,electronics,2812,dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet
+530,electronics,9097,nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed
+2471,toys,9175,pede venenatis non sodales sed tincidunt eu felis fusce posuere felis
+546,electronics,1165,lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum
+9871,home goods,4193,quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor
+2014,food,2586,faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi
+5007,toys,6470,vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit
+6214,toys,5111,molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget
+9400,home goods,127,sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel
+6995,toys,6783,morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus
+2125,food,4284,id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada
+9735,food,4399,integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in
+5469,home goods,9394,euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at
+7321,home goods,3470,vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel
+9316,home goods,502,id ornare imperdiet sapien urna pretium nisl ut volutpat sapien
+3344,food,7524,magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus
+4594,clothing,8761,nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim
+8045,toys,9594,pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices
+8002,electronics,8727,odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac
+5379,home goods,7173,diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales
+6609,toys,2471,elementum pellentesque quisque porta volutpat erat quisque erat eros viverra
+8894,home goods,9515,eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci
+5749,food,6032,eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet
+8092,electronics,4300,ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem
+1838,toys,6803,nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede
+9060,food,3683,augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus
+8503,electronics,3683,rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus
+253,clothing,8317,tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique
+7701,home goods,1049,neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum
+3902,clothing,6902,nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo odio
+705,home goods,3104,imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin
+3965,food,2539,at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat
+7376,toys,5793,id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in
+1270,toys,4719,aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate
+2171,toys,4330,nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat
+67,toys,8393,eleifend luctus ultricies eu nibh quisque id justo sit amet
+9857,food,1892,hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer
+1581,food,8036,luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec
+1727,toys,1089,nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed
+9969,toys,2865,duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus
+8440,clothing,2772,eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo
+8272,clothing,3450,fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam
+6049,food,811,ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis
+6489,home goods,1320,consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante
+3675,clothing,300,pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam
+3770,clothing,8917,vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus
+288,food,8748,sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis
+5994,home goods,3581,semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque
+9088,clothing,6678,metus aenean fermentum donec ut mauris eget massa tempor convallis
+7621,electronics,1968,luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis
+5293,clothing,9142,sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium
+6337,home goods,4147,convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim
+7272,food,7126,rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum
+181,home goods,9628,lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis
+4592,home goods,2489,eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio
+8641,electronics,3893,at nibh in hac habitasse platea dictumst aliquam augue quam
+4560,toys,9051,curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut
+3314,home goods,3617,duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium
+3042,home goods,7108,proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh
+6184,toys,5834,eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient
+7620,electronics,1397,vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue
+150,food,3438,ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue
+820,clothing,1853,vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue
+9610,food,2477,pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem
+565,toys,2811,risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante
+5885,toys,2820,erat quisque erat eros viverra eget congue eget semper rutrum
+5832,home goods,6456,nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus
+506,toys,1013,libero quis orci nullam molestie nibh in lectus pellentesque at
+3408,home goods,2394,ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus
+8763,clothing,1124,montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem
+7840,toys,3503,vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis
+374,home goods,1118,sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget
+6905,clothing,1874,turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis
+7147,electronics,574,neque sapien placerat ante nulla justo aliquam quis turpis eget
+6122,toys,3785,platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo
+3736,home goods,1549,quis lectus suspendisse potenti in eleifend quam a odio in hac
+7502,toys,6736,quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis
+3290,electronics,7645,non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus
+2404,toys,5988,duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam
+2799,food,9625,pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla
+7808,clothing,1610,molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam
+281,electronics,7754,arcu libero rutrum ac lobortis vel dapibus at diam nam
+3440,food,3980,libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut
+7905,clothing,4146,magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
+1750,toys,6908,at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate
+298,food,2803,et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien
+4039,food,427,integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan
+8491,electronics,5711,suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna
+9731,toys,1701,elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum
+1607,toys,5628,purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor eu pede
+2092,food,7774,pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis
+9717,electronics,737,ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor
+1481,food,3908,in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor
+6995,clothing,9753,nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu
+6391,food,1518,est phasellus sit amet erat nulla tempus vivamus in felis eu sapien
+9262,clothing,3801,pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio
+9217,food,2779,nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla
+2358,clothing,2771,sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum
+438,clothing,4142,magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet
+3617,electronics,9571,nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta
+9770,clothing,212,posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis
+3561,toys,7520,lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et
+698,food,7064,montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl
+422,toys,9815,imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis
+4386,clothing,3368,ac nibh fusce lacus purus aliquet at feugiat non pretium quis
+478,home goods,4560,auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi
+9840,clothing,1022,sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl
+66,clothing,4959,risus praesent lectus vestibulum quam sapien varius ut blandit non interdum
+2631,electronics,9825,vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia
+3189,home goods,4757,turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam
+2047,toys,5305,tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie
+6728,food,737,lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et
+2762,food,2884,luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est
+494,home goods,2715,eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a
+5615,home goods,2437,ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie
+4482,clothing,9705,nisl nunc rhoncus dui vel sem sed sagittis nam congue
+2302,home goods,6886,vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien
+5362,food,1436,sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel
+2377,toys,8490,risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in
+3531,food,81,blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque
+495,clothing,6925,fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio
+7854,home goods,1336,nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus
+9170,home goods,5963,ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est
+33,electronics,6641,nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut
+3447,electronics,6831,sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla
+9396,home goods,5049,nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst
+6238,toys,6896,augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia
+9939,food,3907,lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea
+2149,home goods,6898,odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam
+1947,electronics,9908,eu massa donec dapibus duis at velit eu est congue elementum in hac
+7674,electronics,6450,nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut
+8089,home goods,4445,primis in faucibus orci luctus et ultrices posuere cubilia curae
+1120,toys,5093,luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida
+2274,electronics,9559,quam turpis adipiscing lorem vitae mattis nibh ligula nec sem
+80,food,4887,venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl
+9667,toys,6957,ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus
+606,toys,9433,turpis a pede posuere nonummy integer non velit donec diam neque vestibulum
+2662,food,2106,sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris
+3464,clothing,4738,parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean
+155,toys,8019,luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices
+6477,clothing,9906,amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi
+3776,home goods,715,odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices
+5092,toys,2629,luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat
+2721,electronics,8979,sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus
+4426,toys,8531,donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut
+3393,toys,8279,ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend
+1929,home goods,8924,massa quis augue luctus tincidunt nulla mollis molestie lorem quisque
+2688,toys,4168,tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst
+7696,home goods,2566,integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan
+9608,toys,553,dui vel sem sed sagittis nam congue risus semper porta volutpat quam
+973,home goods,2298,parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient
+1353,food,8093,leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu
+2985,toys,5908,sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo
+2950,home goods,1190,massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo
+5123,clothing,6307,nibh in lectus pellentesque at nulla suspendisse potenti cras in purus
+7649,electronics,6906,quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum
+5693,clothing,9479,sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis
+7869,clothing,3420,suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec
+1116,food,761,ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac
+8395,food,8136,amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut
+7406,toys,9403,libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum
+4098,food,6566,lobortis ligula sit amet eleifend pede libero quis orci nullam
+4228,electronics,7558,sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque
+7284,toys,5614,nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis
+373,food,4249,vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis
+7976,toys,4367,non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan
+1089,food,4664,ligula sit amet eleifend pede libero quis orci nullam molestie nibh
+3734,food,8425,mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis
+5763,clothing,3480,ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
+9557,electronics,5903,auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut
+7768,toys,2534,semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel
+2771,home goods,3452,massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar
+9297,toys,8270,maecenas leo odio condimentum id luctus nec molestie sed justo
+3833,clothing,5430,nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare
+809,electronics,8790,justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis
+1549,food,7327,est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est
+2386,electronics,6888,sed magna at nunc commodo placerat praesent blandit nam nulla integer pede
+3022,electronics,8136,sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo
+9531,home goods,6570,in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa
+6462,food,3908,proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis
+6884,clothing,8620,diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere
+7943,clothing,9525,amet eros suspendisse accumsan tortor quis turpis sed ante vivamus
+5133,food,5851,in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem
+9237,home goods,2992,in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat
+4417,food,4255,convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim
+1651,food,5159,consequat lectus in est risus auctor sed tristique in tempus sit amet sem
+2581,electronics,6861,condimentum id luctus nec molestie sed justo pellentesque viverra pede
+7637,home goods,539,pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam
+2481,toys,5811,urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo
+1345,clothing,1323,convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus
+3107,home goods,5216,posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis
+9942,clothing,185,nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante
+5491,food,698,habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum
+977,home goods,3976,eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero
+4207,toys,9147,luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus
+634,food,7132,urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat
+3247,clothing,9359,sapien non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus
+9472,food,9701,faucibus orci luctus et ultrices posuere cubilia curae donec pharetra
+8665,home goods,6409,lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque
+4047,clothing,1426,velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget
+5387,clothing,5655,turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit
+5953,clothing,7950,semper sapien a libero nam dui proin leo odio porttitor
