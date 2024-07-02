@@ -1,0 +1,401 @@
+ProductID,ProductName,Price,TypeOfProduct
+1,Dining Table,1529,Furniture
+2,Tablet,1492,Electronics
+3,Sofa,589,Furniture
+4,Bookshelf,1715,Furniture
+5,Printer,1713,Electronics
+6,Smartwatch,1235,Electronics
+7,Monitor,1009,Electronics
+8,Dining Table,1216,Furniture
+9,Mouse,1855,Electronics
+10,Mouse,155,Electronics
+11,Camera,675,Electronics
+12,Desk Chair,406,Furniture
+13,Headphones,903,Electronics
+14,Coffee Table,1479,Furniture
+15,Camera,892,Electronics
+16,Coffee Table,269,Furniture
+17,Monitor,1218,Electronics
+18,Laptop,394,Electronics
+19,Camera,892,Electronics
+20,Headphones,1371,Electronics
+21,Mouse,1621,Electronics
+22,Laptop,1630,Electronics
+23,Laptop,1481,Electronics
+24,Tablet,728,Electronics
+25,Desk Chair,374,Furniture
+26,Smartwatch,242,Electronics
+27,Keyboard,1026,Electronics
+28,Smartphone,1653,Electronics
+29,Laptop,1633,Electronics
+30,Dining Table,1451,Furniture
+31,Bookshelf,1544,Furniture
+32,Camera,1777,Electronics
+33,Coffee Table,1810,Furniture
+34,Keyboard,149,Electronics
+35,Bookshelf,1146,Furniture
+36,Printer,1586,Electronics
+37,Router,1659,Electronics
+38,Smartwatch,921,Electronics
+39,Monitor,977,Electronics
+40,Coffee Table,1082,Furniture
+41,Tablet,1791,Electronics
+42,Smartphone,1899,Electronics
+43,Router,1337,Electronics
+44,Router,498,Electronics
+45,Monitor,236,Electronics
+46,Keyboard,209,Electronics
+47,Monitor,1931,Electronics
+48,Coffee Table,135,Furniture
+49,Keyboard,1916,Electronics
+50,Monitor,824,Electronics
+51,Office Desk,165,Furniture
+52,Bluetooth Speaker,1475,Electronics
+53,Gaming Console,546,Electronics
+54,Dining Table,471,Furniture
+55,Printer,783,Electronics
+56,Printer,963,Electronics
+57,Wardrobe,1366,Furniture
+58,Monitor,839,Electronics
+59,Smartphone,1485,Electronics
+60,Tablet,231,Electronics
+61,Sofa,972,Furniture
+62,Monitor,1454,Electronics
+63,Camera,1707,Electronics
+64,Keyboard,786,Electronics
+65,Office Desk,525,Furniture
+66,Office Desk,1197,Furniture
+67,Coffee Table,375,Furniture
+68,Desk Chair,1526,Furniture
+69,Headphones,1466,Electronics
+70,Gaming Console,584,Electronics
+71,Mouse,920,Electronics
+72,Wardrobe,1419,Furniture
+73,Tablet,900,Electronics
+74,Camera,551,Electronics
+75,Desk Chair,249,Furniture
+76,Sofa,1927,Furniture
+77,Smartphone,1658,Electronics
+78,Desk Chair,436,Furniture
+79,Smartwatch,1571,Electronics
+80,Camera,1414,Electronics
+81,Tablet,294,Electronics
+82,Tablet,1848,Electronics
+83,Smartphone,1017,Electronics
+84,Gaming Console,838,Electronics
+85,Smartphone,1471,Electronics
+86,Coffee Table,837,Furniture
+87,Sofa,866,Furniture
+88,Smartwatch,1370,Electronics
+89,Smartwatch,756,Electronics
+90,Tablet,262,Electronics
+91,Tablet,540,Electronics
+92,Wardrobe,297,Furniture
+93,Monitor,1333,Electronics
+94,Camera,1414,Electronics
+95,Bluetooth Speaker,1487,Electronics
+96,Coffee Table,1335,Furniture
+97,Office Desk,662,Furniture
+98,Monitor,1644,Electronics
+99,Bluetooth Speaker,1813,Electronics
+100,Smartphone,1593,Electronics
+101,Keyboard,1101,Electronics
+102,Tablet,1904,Electronics
+103,Camera,1008,Electronics
+104,Mouse,834,Electronics
+105,Office Desk,865,Furniture
+106,Headphones,1121,Electronics
+107,Smartphone,806,Electronics
+108,Keyboard,112,Electronics
+109,Printer,1336,Electronics
+110,Laptop,1534,Electronics
+111,Printer,535,Electronics
+112,Gaming Console,1742,Electronics
+113,Monitor,1453,Electronics
+114,Office Desk,953,Furniture
+115,Bluetooth Speaker,1487,Electronics
+116,Office Desk,952,Furniture
+117,Bluetooth Speaker,1335,Electronics
+118,Smartphone,788,Electronics
+119,Mouse,110,Electronics
+120,Headphones,1488,Electronics
+121,Smartwatch,115,Electronics
+122,Printer,1215,Electronics
+123,Smartwatch,351,Electronics
+124,Desk Chair,1433,Furniture
+125,Sofa,343,Furniture
+126,Dining Table,1928,Furniture
+127,Bookshelf,1925,Furniture
+128,Sofa,1185,Furniture
+129,Headphones,806,Electronics
+130,Tablet,1268,Electronics
+131,Coffee Table,917,Furniture
+132,Dining Table,445,Furniture
+133,Tablet,717,Electronics
+134,Keyboard,1215,Electronics
+135,Laptop,1562,Electronics
+136,Office Desk,1375,Furniture
+137,Wardrobe,963,Furniture
+138,Bluetooth Speaker,507,Electronics
+139,Bookshelf,689,Furniture
+140,Office Desk,781,Furniture
+141,Printer,1472,Electronics
+142,Bookshelf,98,Furniture
+143,Wardrobe,639,Furniture
+144,Dining Table,63,Furniture
+145,Laptop,1284,Electronics
+146,Sofa,1263,Furniture
+147,Router,664,Electronics
+148,Camera,1577,Electronics
+149,Gaming Console,162,Electronics
+150,Camera,614,Electronics
+151,Wardrobe,1552,Furniture
+152,Office Desk,1037,Furniture
+153,Headphones,1023,Electronics
+154,Keyboard,1067,Electronics
+155,Wardrobe,1812,Furniture
+156,Headphones,316,Electronics
+157,Laptop,630,Electronics
+158,Smartphone,755,Electronics
+159,Printer,1814,Electronics
+160,Laptop,605,Electronics
+161,Bluetooth Speaker,1988,Electronics
+162,Laptop,633,Electronics
+163,Office Desk,494,Furniture
+164,Wardrobe,189,Furniture
+165,Mouse,300,Electronics
+166,Coffee Table,1461,Furniture
+167,Coffee Table,505,Furniture
+168,Desk Chair,1583,Furniture
+169,Camera,1907,Electronics
+170,Camera,833,Electronics
+171,Sofa,850,Furniture
+172,Office Desk,506,Furniture
+173,Office Desk,1921,Furniture
+174,Keyboard,644,Electronics
+175,Monitor,555,Electronics
+176,Sofa,1641,Furniture
+177,Bluetooth Speaker,390,Electronics
+178,Mouse,784,Electronics
+179,Dining Table,1590,Furniture
+180,Monitor,1323,Electronics
+181,Bluetooth Speaker,1416,Electronics
+182,Sofa,1733,Furniture
+183,Printer,1067,Electronics
+184,Desk Chair,1131,Furniture
+185,Headphones,165,Electronics
+186,Wardrobe,131,Furniture
+187,Bookshelf,1240,Furniture
+188,Office Desk,1853,Furniture
+189,Headphones,1396,Electronics
+190,Monitor,1559,Electronics
+191,Sofa,1537,Furniture
+192,Smartwatch,1465,Electronics
+193,Smartphone,643,Electronics
+194,Router,1348,Electronics
+195,Tablet,66,Electronics
+196,Office Desk,657,Furniture
+197,Wardrobe,110,Furniture
+198,Headphones,758,Electronics
+199,Mouse,82,Electronics
+200,Wardrobe,774,Furniture
+201,Mouse,888,Electronics
+202,Laptop,204,Electronics
+203,Gaming Console,1586,Electronics
+204,Monitor,1936,Electronics
+205,Router,1136,Electronics
+206,Headphones,289,Electronics
+207,Camera,1733,Electronics
+208,Smartwatch,1651,Electronics
+209,Monitor,1986,Electronics
+210,Desk Chair,849,Furniture
+211,Wardrobe,1727,Furniture
+212,Smartwatch,580,Electronics
+213,Headphones,1187,Electronics
+214,Camera,516,Electronics
+215,Smartwatch,494,Electronics
+216,Gaming Console,544,Electronics
+217,Dining Table,1787,Furniture
+218,Router,70,Electronics
+219,Mouse,1463,Electronics
+220,Tablet,1805,Electronics
+221,Bluetooth Speaker,1989,Electronics
+222,Tablet,534,Electronics
+223,Laptop,418,Electronics
+224,Laptop,1397,Electronics
+225,Headphones,1707,Electronics
+226,Wardrobe,818,Furniture
+227,Dining Table,1978,Furniture
+228,Smartwatch,320,Electronics
+229,Coffee Table,845,Furniture
+230,Dining Table,1715,Furniture
+231,Sofa,809,Furniture
+232,Tablet,1436,Electronics
+233,Keyboard,729,Electronics
+234,Headphones,1239,Electronics
+235,Gaming Console,817,Electronics
+236,Monitor,882,Electronics
+237,Tablet,141,Electronics
+238,Laptop,1327,Electronics
+239,Gaming Console,985,Electronics
+240,Bluetooth Speaker,231,Electronics
+241,Bookshelf,1308,Furniture
+242,Keyboard,662,Electronics
+243,Camera,1341,Electronics
+244,Keyboard,995,Electronics
+245,Smartphone,973,Electronics
+246,Bookshelf,901,Furniture
+247,Wardrobe,918,Furniture
+248,Gaming Console,269,Electronics
+249,Smartwatch,235,Electronics
+250,Gaming Console,79,Electronics
+251,Smartwatch,905,Electronics
+252,Desk Chair,1832,Furniture
+253,Smartwatch,447,Electronics
+254,Gaming Console,1926,Electronics
+255,Bluetooth Speaker,1006,Electronics
+256,Office Desk,341,Furniture
+257,Bookshelf,896,Furniture
+258,Bookshelf,224,Furniture
+259,Headphones,560,Electronics
+260,Gaming Console,802,Electronics
+261,Office Desk,659,Furniture
+262,Dining Table,291,Furniture
+263,Sofa,1289,Furniture
+264,Smartphone,1045,Electronics
+265,Router,1718,Electronics
+266,Bookshelf,278,Furniture
+267,Headphones,223,Electronics
+268,Printer,121,Electronics
+269,Dining Table,802,Furniture
+270,Desk Chair,115,Furniture
+271,Camera,1451,Electronics
+272,Keyboard,1057,Electronics
+273,Wardrobe,1045,Furniture
+274,Office Desk,84,Furniture
+275,Gaming Console,1954,Electronics
+276,Tablet,406,Electronics
+277,Smartwatch,462,Electronics
+278,Bluetooth Speaker,483,Electronics
+279,Keyboard,1704,Electronics
+280,Mouse,383,Electronics
+281,Printer,1399,Electronics
+282,Sofa,551,Furniture
+283,Bluetooth Speaker,1409,Electronics
+284,Bluetooth Speaker,1749,Electronics
+285,Office Desk,1362,Furniture
+286,Gaming Console,684,Electronics
+287,Sofa,844,Furniture
+288,Sofa,67,Furniture
+289,Mouse,229,Electronics
+290,Camera,1363,Electronics
+291,Headphones,1121,Electronics
+292,Camera,844,Electronics
+293,Wardrobe,429,Furniture
+294,Wardrobe,170,Furniture
+295,Smartphone,1796,Electronics
+296,Printer,1822,Electronics
+297,Desk Chair,103,Furniture
+298,Camera,1928,Electronics
+299,Camera,922,Electronics
+300,Wardrobe,964,Furniture
+301,Camera,1173,Electronics
+302,Laptop,979,Electronics
+303,Office Desk,250,Furniture
+304,Desk Chair,442,Furniture
+305,Laptop,586,Electronics
+306,Sofa,1155,Furniture
+307,Laptop,450,Electronics
+308,Laptop,485,Electronics
+309,Router,101,Electronics
+310,Bluetooth Speaker,1059,Electronics
+311,Gaming Console,734,Electronics
+312,Bluetooth Speaker,54,Electronics
+313,Dining Table,656,Furniture
+314,Smartwatch,768,Electronics
+315,Gaming Console,1857,Electronics
+316,Bookshelf,1510,Furniture
+317,Monitor,1549,Electronics
+318,Bluetooth Speaker,587,Electronics
+319,Monitor,1502,Electronics
+320,Printer,121,Electronics
+321,Tablet,258,Electronics
+322,Printer,1249,Electronics
+323,Gaming Console,1593,Electronics
+324,Smartwatch,959,Electronics
+325,Mouse,294,Electronics
+326,Monitor,361,Electronics
+327,Wardrobe,364,Furniture
+328,Coffee Table,832,Furniture
+329,Dining Table,53,Furniture
+330,Coffee Table,1489,Furniture
+331,Gaming Console,689,Electronics
+332,Tablet,1068,Electronics
+333,Tablet,333,Electronics
+334,Laptop,1506,Electronics
+335,Dining Table,1499,Furniture
+336,Mouse,551,Electronics
+337,Camera,414,Electronics
+338,Headphones,1906,Electronics
+339,Gaming Console,969,Electronics
+340,Monitor,293,Electronics
+341,Tablet,282,Electronics
+342,Monitor,1137,Electronics
+343,Tablet,823,Electronics
+344,Headphones,1920,Electronics
+345,Coffee Table,1202,Furniture
+346,Router,1153,Electronics
+347,Smartwatch,1797,Electronics
+348,Gaming Console,108,Electronics
+349,Camera,1503,Electronics
+350,Smartphone,1407,Electronics
+351,Mouse,1029,Electronics
+352,Tablet,659,Electronics
+353,Smartphone,760,Electronics
+354,Tablet,1117,Electronics
+355,Camera,1173,Electronics
+356,Printer,1477,Electronics
+357,Smartphone,439,Electronics
+358,Dining Table,660,Furniture
+359,Sofa,64,Furniture
+360,Dining Table,580,Furniture
+361,Printer,1203,Electronics
+362,Mouse,664,Electronics
+363,Keyboard,1554,Electronics
+364,Router,621,Electronics
+365,Office Desk,1141,Furniture
+366,Wardrobe,558,Furniture
+367,Mouse,686,Electronics
+368,Mouse,760,Electronics
+369,Gaming Console,830,Electronics
+370,Mouse,1719,Electronics
+371,Smartwatch,173,Electronics
+372,Monitor,1017,Electronics
+373,Monitor,1154,Electronics
+374,Tablet,1383,Electronics
+375,Coffee Table,937,Furniture
+376,Gaming Console,304,Electronics
+377,Bluetooth Speaker,286,Electronics
+378,Office Desk,114,Furniture
+379,Coffee Table,493,Furniture
+380,Router,704,Electronics
+381,Camera,1689,Electronics
+382,Dining Table,1550,Furniture
+383,Printer,1859,Electronics
+384,Gaming Console,1965,Electronics
+385,Bookshelf,1445,Furniture
+386,Headphones,1707,Electronics
+387,Camera,1588,Electronics
+388,Dining Table,527,Furniture
+389,Router,367,Electronics
+390,Camera,509,Electronics
+391,Smartwatch,1745,Electronics
+392,Office Desk,521,Furniture
+393,Bookshelf,1379,Furniture
+394,Keyboard,1532,Electronics
+395,Sofa,445,Furniture
+396,Office Desk,1781,Furniture
+397,Bluetooth Speaker,599,Electronics
+398,Smartwatch,909,Electronics
+399,Headphones,1123,Electronics
+400,Coffee Table,655,Furniture
