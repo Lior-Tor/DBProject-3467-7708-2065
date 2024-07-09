@@ -4,7 +4,7 @@ Version=1
 
 [Preferences]
 Username=
-Password=2091
+Password=2990
 Database=
 DateFormat=DD/MM/YYYY
 CommitCount=0
@@ -20,7 +20,7 @@ Count=400
 Name=SALEID
 Type=NUMBER
 Size=
-Data=Sequence(30000)
+Data=Sequence(100000)
 Master=
 
 [Record]
@@ -41,13 +41,13 @@ Master=
 Name=CUSTOMERID
 Type=NUMBER
 Size=
-Data=Sequence(1)
+Data=List(select customerid from Customers)
 Master=
 
 [Record]
 Name=EMPLOYEEID
 Type=NUMBER
 Size=
-Data=Sequence(401)
+Data=List(select employeeid from Employees)
 Master=
 

@@ -4,7 +4,7 @@ Version=1
 
 [Preferences]
 Username=
-Password=2819
+Password=2392
 Database=
 DateFormat=DD/MM/YYYY
 CommitCount=0
@@ -27,7 +27,7 @@ Master=
 Name=QUANTITY
 Type=NUMBER
 Size=
-Data=Random(0, 1000)
+Data=Random(1, 1000)
 Master=
 
 [Record]
@@ -41,13 +41,13 @@ Master=
 Name=PRODUCTID
 Type=NUMBER
 Size=
-Data=Sequence(10000)
+Data=List(select productid from Products)
 Master=
 
 [Record]
 Name=SUPPLIERID
 Type=NUMBER
 Size=
-Data=Sequence(801)
+Data=List(select supplierid from Suppliers)
 Master=
 

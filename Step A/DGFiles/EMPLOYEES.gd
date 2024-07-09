@@ -4,7 +4,7 @@ Version=1
 
 [Preferences]
 Username=
-Password=2748
+Password=2821
 Database=
 DateFormat=DD/MM/YYYY
 CommitCount=0
@@ -20,7 +20,7 @@ Count=400
 Name=EMPLOYEEID
 Type=NUMBER
 Size=
-Data=Sequence(1)
+Data=Sequence(401)
 Master=
 
 [Record]
