@@ -44,6 +44,8 @@ JOIN
 JOIN 
     Passengers p ON b.PASSENGER_ID = p.PASSENGER_ID;
 
+
+
 -- Queries on Views
 
 -- Queries on View 1: PassengerPurchases
